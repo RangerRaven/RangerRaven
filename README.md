@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RangerRaven
 - 👀 I’m interested in basic coding projects, game design and robotics.
-- 🌱 I’m currently learning Python, C++ and C#
-- 💞️ I’m looking to collaborate on game design and student projects with my friends. 
+- 🌱 I’m currently learning Python, Lua
+- 💞️ I’m looking to collaborate on game design and projects with my friends. 
 - 📫 How to reach me ...
 
 <!---
